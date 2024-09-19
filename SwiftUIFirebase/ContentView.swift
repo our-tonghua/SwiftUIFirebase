@@ -9,10 +9,14 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
+        
+        ZStack {
+            
+            Color.gray.ignoresSafeArea(.all)
+            
             Text("Hello, Do you know Tonghua?")
+                .padding()
         }
-        .padding()
     }
 }
 
