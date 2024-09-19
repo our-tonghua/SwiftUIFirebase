@@ -14,6 +14,7 @@
 		C3C898AC2C9B667F00EF7C0D /* SwiftUIFirebaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C898AB2C9B667F00EF7C0D /* SwiftUIFirebaseTests.swift */; };
 		C3C898B62C9B667F00EF7C0D /* SwiftUIFirebaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C898B52C9B667F00EF7C0D /* SwiftUIFirebaseUITests.swift */; };
 		C3C898B82C9B667F00EF7C0D /* SwiftUIFirebaseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C898B72C9B667F00EF7C0D /* SwiftUIFirebaseUITestsLaunchTests.swift */; };
+		C3C898C52C9CB02600EF7C0D /* Secondview.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C898C42C9CB02600EF7C0D /* Secondview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C3C898B12C9B667F00EF7C0D /* SwiftUIFirebaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIFirebaseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3C898B52C9B667F00EF7C0D /* SwiftUIFirebaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFirebaseUITests.swift; sourceTree = "<group>"; };
 		C3C898B72C9B667F00EF7C0D /* SwiftUIFirebaseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFirebaseUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C3C898C42C9CB02600EF7C0D /* Secondview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secondview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				C3C8989C2C9B667900EF7C0D /* ContentView.swift */,
 				C3C8989E2C9B667E00EF7C0D /* Assets.xcassets */,
 				C3C898A02C9B667E00EF7C0D /* Preview Content */,
+				C3C898C42C9CB02600EF7C0D /* Secondview.swift */,
 			);
 			path = SwiftUIFirebase;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3C8989D2C9B667900EF7C0D /* ContentView.swift in Sources */,
+				C3C898C52C9CB02600EF7C0D /* Secondview.swift in Sources */,
 				C3C8989B2C9B667900EF7C0D /* SwiftUIFirebaseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
